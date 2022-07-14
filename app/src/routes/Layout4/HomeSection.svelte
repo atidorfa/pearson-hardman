@@ -5,7 +5,7 @@
 
   const text_rotate = new Array(
 		'We love make things amazing and simple',
-		'Create amazing landing page with ASD Gobling',
+		'Create amazing landing page with ASD Studios',
 		'Perfact solution for small businesses'
 	);
 

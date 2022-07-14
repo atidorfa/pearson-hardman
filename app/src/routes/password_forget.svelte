@@ -9,7 +9,7 @@
       <Col lg={4} class="col-lg-4">
         <div class="bg-white p-4 mt-5 rounded">
           <div class="text-center">
-            <h4 class="fw-bold mb-3">ASD Gobling</h4>
+            <h4 class="fw-bold mb-3">ASD Studios</h4>
           </div>
           <h6 class="text-center text-muted font-weight-normal forgot-pass-txt">
             Enter your email address and we'll send you an email with

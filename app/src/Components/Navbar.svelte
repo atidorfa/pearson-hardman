@@ -93,7 +93,7 @@ window.addEventListener('scroll', (ev) => {
     id="navbar"
   >
     <div class="container">
-      <a class="navbar-brand" href={"#"}>ASD Gobling</a>
+      <a class="navbar-brand" href={"#"}>ASD Studios</a>
 
       <Button class="navbar-toggler" on:click={toggleMenu}>
         <span class="ti-menu" />
