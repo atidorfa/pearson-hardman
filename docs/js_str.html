@@ -1,0 +1,47 @@
+<!-- HTML generated using hilite.me -->
+<div style="background: #f5f5f5; overflow:auto;width:auto;border:solid gray;border-width:0px;padding:1.6em;"><pre style="margin: 0; line-height: 125%">
+&lt;script>
+import { Router, Route } from "svelte-routing";
+
+import Layout1 from "./routes/Layout1/Layout_1.svelte";
+import Layout2 from "./routes/Layout2/Layout_2.svelte";
+import Layout3 from "./routes/Layout3/Layout_3.svelte";
+import Layout4 from "./routes/Layout4/Layout_4.svelte";
+import Layout5 from "./routes/Layout5/Layout_5.svelte";
+import Layout6 from "./routes/Layout6/Layout_6.svelte";
+import Layout7 from "./routes/Layout7/Layout_7.svelte";
+import Layout8 from "./routes/Layout8/Layout_8.svelte";
+import Layout9 from "./routes/Layout9/Layout_9.svelte";
+import Layout10 from "./routes/Layout10/Layout_10.svelte";
+import Layout11 from "./routes/Layout11/Layout_11.svelte";
+import Layout12 from "./routes/Layout12/Layout_12.svelte";
+import Login from "./routes/login.svelte";
+import Signup from "./routes/signup.svelte";
+import Password_forget from "./routes/password_forget.svelte";
+
+export let url = "";
+&lt;/script>
+
+&lt;Router {url}>
+  &lt;div>
+  &lt;Route path="/">&lt;Layout1 />&lt;/Route>
+  &lt;Route path="/layout1">&lt;Layout1 />&lt;/Route>
+  &lt;Route path="/layout2">&lt;Layout2 />&lt;/Route>
+  &lt;Route path="/layout3">&lt;Layout3 />&lt;/Route>
+  &lt;Route path="/layout4">&lt;Layout4 />&lt;/Route>
+  &lt;Route path="/layout5">&lt;Layout5 />&lt;/Route>
+  &lt;Route path="/layout6">&lt;Layout6 />&lt;/Route>
+  &lt;Route path="/layout7">&lt;Layout7 />&lt;/Route>
+  &lt;Route path="/layout8">&lt;Layout8 />&lt;/Route>
+  &lt;Route path="/layout9">&lt;Layout9 />&lt;/Route>
+  &lt;Route path="/layout10">&lt;Layout10 />&lt;/Route>
+  &lt;Route path="/layout11">&lt;Layout11 />&lt;/Route>
+  &lt;Route path="/layout12">&lt;Layout12 />&lt;/Route>
+  &lt;Route path="/login">&lt;Login />&lt;/Route>
+  &lt;Route path="/signup">&lt;Signup />&lt;/Route>
+  &lt;Route path="/password_forget">&lt;Password_forget />&lt;/Route>
+  &lt;/div>
+&lt;/Router>
+
+     
+</div>
