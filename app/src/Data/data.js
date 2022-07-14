@@ -69,7 +69,7 @@ const TESATIMONIAL_DATA = {
         {
             profile: 'assets/images/testi/testi-1.jpg',
             description: "Risus cubilia etiam parturient augue nostra sodales sit aptent venenatis magna sapienante hendrerit ullamcorper tincidunt urna eget Ante feugiat.",
-            name: 'John Litts, ASD Globing'
+            name: 'John Litts, ASD Gobling'
         },
         {
             profile: 'assets/images/testi/testi-2.jpg',

@@ -9,7 +9,7 @@
       <Col lg={4}>
         <div class="bg-white p-4 mt-5 rounded">
           <div class="text-center">
-            <h4 class="fw-bold mb-3">ASD Globing</h4>
+            <h4 class="fw-bold mb-3">ASD Gobling</h4>
           </div>
           <Form class="login-form">
             <Row>

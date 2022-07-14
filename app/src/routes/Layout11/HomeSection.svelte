@@ -13,7 +13,7 @@
   image_rotate[1] = "assets/images/slide-2.jpg";
   image_rotate[2] = "assets/images/slide-3.jpg";
   text_rotate[0] = "We love make things amazing and simple";
-  text_rotate[1] = "Create amazing landing page with ASD Globing";
+  text_rotate[1] = "Create amazing landing page with ASD Gobling";
   text_rotate[2] = "Perfact solution for small businesses";
 
   onMount(() => {

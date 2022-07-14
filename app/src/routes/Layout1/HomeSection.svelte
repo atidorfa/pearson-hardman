@@ -18,7 +18,7 @@
           <Col lg={7}>
             <div>
               <h1 class="text-white home-title mb-0">
-                Create amazing landing page with ASD Globing template
+                Create amazing landing page with ASD Gobling template
               </h1>
               <p class="text-muted home-subtitle mt-4 mb-0">
                 It is a long established fact that a reader will be of a page
