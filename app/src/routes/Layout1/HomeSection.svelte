@@ -8,6 +8,11 @@
     Input
   } from 'sveltestrap'
 
+  import AudioPlayer, { stopAll } from '../../Components/AudioPlayer.svelte'
+
+  let audioTracks = [
+    'https://sveltejs.github.io/assets/music/strauss.mp3',
+  ]
 </script>
 
 <section class="section bg-home" id="home">
@@ -26,6 +31,9 @@
                 semper class semper sollicitudin lectus lorem iaculis imperdiet
                 aliquam.
               </p>
+                  {#each audioTracks as src}
+                    <AudioPlayer {src} />
+                  {/each}
               <div class="mt-4">
                 <a href={"#"} class="btn btn-outline-white btn-round">Read More</a
                 >
