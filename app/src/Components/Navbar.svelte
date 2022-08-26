@@ -105,16 +105,16 @@ window.addEventListener('scroll', (ev) => {
             <a class="nav-link" style="text-transform:uppercase" use:scrollto={"#home"} href={"#home"}>Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" style="text-transform:uppercase" use:scrollto={"#services"} href={"#services"}>Services</a>
+            <a class="nav-link" style="text-transform:uppercase" use:scrollto={"#team"} href={"#team"}>Team</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" style="text-transform:uppercase" use:scrollto={"#features"} href={"#features"}>Features</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" style="text-transform:uppercase" use:scrollto={"#testi"} href={"#testi"}>Client</a>
+            <a class="nav-link" style="text-transform:uppercase" use:scrollto={"#services"} href={"#services"}>Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" style="text-transform:uppercase" use:scrollto={"#team"} href={"#team"}>Team</a>
+            <a class="nav-link" style="text-transform:uppercase" use:scrollto={"#testi"} href={"#testi"}>Client</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" style="text-transform:uppercase" use:scrollto={"#faq"} href={"#faq"}>FAQ</a>
