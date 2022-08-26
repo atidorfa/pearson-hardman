@@ -23,7 +23,7 @@
           <Col lg={7}>
             <div>
               <h1 class="text-white home-title mb-0">
-                World-class faculty, groundbreaking research, and a diverse group of talented professionals make us, PEARSON HARDMAN    more than just a place to get your shit done.
+                World-class faculty, groundbreaking research, and a diverse group of talented professionals.
               </h1>
               <p class="text-muted home-subtitle mt-4 mb-0">
                 It is a long established fact that a reader will be of a page
@@ -31,9 +31,10 @@
                 semper class semper sollicitudin lectus lorem iaculis imperdiet
                 aliquam.
               </p>
-                  {#each audioTracks as src}
-                    <AudioPlayer {src} />
-                  {/each}
+              <br>
+              {#each audioTracks as src}
+                <AudioPlayer {src} />
+              {/each}
               <div class="mt-4">
                 <a href={"#"} class="btn btn-outline-white btn-round">Read More</a
                 >

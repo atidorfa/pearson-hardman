@@ -22,25 +22,26 @@
 <HomeSection />
 <!-- END HOME -->
 
-<!-- START SERVICES -->
-<Service serviceData={data.SERVICE_DATA} />
-<!-- END SERVICES -->
+<!-- START TEAM-->
+<Team teamData={data.TEAM_DATA} />
+<!-- END TEAM -->
 
 <!-- START FETURES -->
 <Feature featureData={data.FEATURES_DATA} />
 <!-- END FEATURES -->
 
+<!-- START SERVICES -->
+<Service serviceData={data.SERVICE_DATA} />
+<!-- END SERVICES -->
+
 <!-- STRAT TESTIMONIAL -->
 <Testimonial testimonialData={data.TESATIMONIAL_DATA} />
 <!-- END TESTIMONIAL -->
 
-<!-- START TEAM-->
-<Team teamData={data.TEAM_DATA} />
-<!-- END TEAM -->
 
-<!-- START TEAM -->
+<!-- START SUPPORT -->
 <Faq faqData={data.FAQDATA} ctaData={data.CTA_SECTION} />
-<!-- END TEAM -->
+<!-- END SUPPORT -->
 
 <!-- START PRICING -->
 <Pricing pricingData={data.PRICING_DATA} />
