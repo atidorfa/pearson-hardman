@@ -14,7 +14,7 @@
         "It is a long established fact that a reader will be of a page when established fact looking at its layout.",
     },
     {
-      title: "Create amazing landing page with ASD Studios",
+      title: "Create amazing landing page with Pearson Hardman",
       description:
         "It is a long established fact that a reader will be of a page when established fact looking at its layout.",
     },

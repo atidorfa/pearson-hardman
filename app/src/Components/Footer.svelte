@@ -75,7 +75,7 @@
         </div>
         <div class="mt-4 pt-2 text-center">
           <p class="copy-rights text-muted mb-0">
-            {new Date().getFullYear()} © ASD Studios. Design by Themesbrand
+            {new Date().getFullYear()} © Pearson Hardman. Design by Themesbrand
           </p>
         </div>
       </Col>

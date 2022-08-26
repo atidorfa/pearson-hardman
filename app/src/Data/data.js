@@ -4,14 +4,14 @@ const SERVICE_DATA = {
     description: "It is a long established fact that a reader will be of a page when established fact looking at its layout.",
     services_list: [{
         key: 1,
-        label: "Digital Design",
-        description: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        label: "On going    ",
+        description: "On September 8, 2003, Pearson Hardman partners & associates, was founded.",
         icon: "ti-settings"
     },
     {
         key: 2,
-        label: "Unlimited Colors",
-        description: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        label: "Unlimited offices",
+        description: "While many think of Pearson Hardman is located in Buenos Aires, the headquarters are in New York and Argentina, but also has robust offices all arround the globe.",
         icon: "ti-palette"
     },
     {
@@ -69,7 +69,7 @@ const TESATIMONIAL_DATA = {
         {
             profile: 'assets/images/testi/testi-1.jpg',
             description: "Risus cubilia etiam parturient augue nostra sodales sit aptent venenatis magna sapienante hendrerit ullamcorper tincidunt urna eget Ante feugiat.",
-            name: 'John Litts, ASD Studios'
+            name: 'John Litts, Pearson Hardman'
         },
         {
             profile: 'assets/images/testi/testi-2.jpg',
@@ -92,18 +92,33 @@ const TEAM_DATA = {
     description: "It is a long established fact that a reader will be of a page when established fact looking at its layout.",
     team_list: [
         {
-            profile: 'assets/images/team/team-3.png',
-            name: '@Donald Laughlin',
+            profile: 'assets/images/suits/square_jpearson.png',
+            name: '@Jessica Pearson',
             designation: 'You want customer to your store. Easily your coupans and has Clooger.'
         },
         {
-            profile: 'assets/images/team/team-2.png',
-            name: '@Rigoberto Valenza',
+            profile: 'assets/images/suits/square_hspecter.png',
+            name: '@Harvey Specter',
             designation: 'You want customer to your store. Easily your coupans and has Clooger.'
         },
         {
-            profile: 'assets/images/team/team-1.png',
-            name: '@Venessa Smith',
+            profile: 'assets/images/suits/square_mross.png',
+            name: '@Mike Ross',
+            designation: 'You want customer to your store. Easily your coupans and has Clooger.'
+        },
+        {
+            profile: 'assets/images/suits/square_llitt.png',
+            name: '@Louis Litt',
+            designation: 'You want customer to your store. Easily your coupans and has Clooger.'
+        },
+        {
+            profile: 'assets/images/suits/square_rzane.png',
+            name: '@Rachel Zane',
+            designation: 'You want customer to your store. Easily your coupans and has Clooger.'
+        },
+        {
+            profile: 'assets/images/suits/square_dpaulsen.png',
+            name: '@Donna Paulsen',
             designation: 'You want customer to your store. Easily your coupans and has Clooger.'
         }
     ]

@@ -18,7 +18,7 @@
           <Col lg={7}>
             <div>
               <h1 class="text-white home-title mb-0">
-                Create amazing landing page with ASD Studios template
+                World-class faculty, groundbreaking research, and a diverse group of talented professionals make us, PEARSON HARDMAN    more than just a place to get your shit done.
               </h1>
               <p class="text-muted home-subtitle mt-4 mb-0">
                 It is a long established fact that a reader will be of a page
@@ -36,10 +36,10 @@
           <Col lg={5} class="mt-3">
             <div class="home-registration-form mx-auto bg-white w-75 p-4">
               <h5 class="form-title mb-4 text-center fw-bold">
-                Get 30 days FREE Trial
+                Get your associate account
               </h5>
               <form class="registration-form">
-                <Label class="text-muted">First Name</Label>
+                <Label class="text-muted">Full Name</Label>
                 <Input
                   type="text"
                   id="exampleInputName1"
