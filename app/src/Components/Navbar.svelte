@@ -32,6 +32,23 @@ window.addEventListener('scroll', (ev) => {
 })
 
   /**
+   * Company
+  */
+  var companyName = 'Pearson Hardman'
+
+const setCompanyName = () => {
+    if (companyName=='Pearson Hackman') {
+
+        companyName = 'Pearson Hardman'
+    }
+    else {
+        companyName = 'Pearson Hackman'
+
+    }
+}
+setTimeout(setCompanyName, 50);
+
+  /**
    * Toggle menu
    */
   const toggleMenu = () => {
@@ -93,7 +110,7 @@ window.addEventListener('scroll', (ev) => {
     id="navbar"
   >
     <div class="container">
-      <a class="navbar-brand" href={"#"}>Pearson Hardman</a>
+      <a class="navbar-brand" href={"#"}>{companyName}</a>
 
       <Button class="navbar-toggler" on:click={toggleMenu}>
         <span class="ti-menu" />
