@@ -38,15 +38,15 @@ window.addEventListener('scroll', (ev) => {
 
 const setCompanyName = () => {
     if (companyName=='Pearson Hackman') {
-
         companyName = 'Pearson Hardman'
     }
     else {
         companyName = 'Pearson Hackman'
 
     }
+    setTimeout(setCompanyName, 5000);
 }
-setTimeout(setCompanyName, 50);
+setTimeout(setCompanyName, 5000);
 
   /**
    * Toggle menu
